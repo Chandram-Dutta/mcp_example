@@ -38,7 +38,7 @@ The server is configured using environment variables in the `.env` file:
    mcp install src.server -f .env
    ```
 
-3. Connect to the server using an MCP client or directly via HTTP requests to the created endpoint.
+3. Connect to the server using an MCP client.
 
 ## Security Considerations
 
