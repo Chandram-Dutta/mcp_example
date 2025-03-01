@@ -4,7 +4,7 @@ This is a simple demonstration of a [Model Configured Program (MCP)](https://git
 
 ## What is MCP?
 
-MCP (Model Configured Programs) is a framework developed by Microsoft to enable AI agents to interact with various tools and APIs in a controlled way. MCP allows AI models to call functions defined in your code through a standardized JSON interface.
+MCP (Model Configured Programs) is a framework developed by Anthropic to enable AI agents to interact with various tools and APIs in a controlled way.
 
 ## Features of this Example
 
